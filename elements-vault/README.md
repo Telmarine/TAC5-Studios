@@ -28,7 +28,7 @@ repositories {
 }
 
 dependencies {
-    compileOnly "curse.maven:elements-vault-<projectId>:<fileId>"
+    compileOnly "curse.maven:elements-vault-1730724:9083690"
 }
 ```
 
