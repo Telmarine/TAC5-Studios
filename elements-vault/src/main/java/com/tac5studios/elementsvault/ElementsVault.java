@@ -5,7 +5,7 @@ import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
 /**
- * Elements: Vault — the shared economy API for TAC5 Studios mods.
+ * Elements: Vault — the shared economy API for NeoForge mods.
  * It holds no money itself. A provider (Elements: Economy) registers an {@link EconomyService},
  * and every other mod talks to that service through {@link EconomyAPI}.
  */
