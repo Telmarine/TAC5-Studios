@@ -1,0 +1,12 @@
+[submodule "elements-nexus"]
+	path = elements-nexus
+	url = https://github.com/Telmarine/elements-nexus.git
+[submodule "elements-economy"]
+	path = elements-economy
+	url = https://github.com/Telmarine/elements-economy.git
+[submodule "elements-vault"]
+	path = elements-vault
+	url = https://github.com/Telmarine/elements-vault.git
+[submodule "title-scrolls"]
+	path = title-scrolls
+	url = https://github.com/Telmarine/codex-title-scrolls.git
