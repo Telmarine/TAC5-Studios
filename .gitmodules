@@ -7,9 +7,9 @@
 [submodule "elements-vault"]
 	path = elements-vault
 	url = https://github.com/Telmarine/elements-vault.git
-[submodule "title-scrolls"]
-	path = title-scrolls
-	url = https://github.com/Telmarine/codex-title-scrolls.git
+[submodule "codex-title-scrolls"]
+	path = codex-title-scrolls
+	url = https://github.com/Telmarine/Codex-Title-Scrolls.git
 [submodule "elements-claims"]
 	path = elements-claims
 	url = https://github.com/Telmarine/Elements-Claims.git
