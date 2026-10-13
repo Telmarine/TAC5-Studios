@@ -10,3 +10,6 @@
 [submodule "title-scrolls"]
 	path = title-scrolls
 	url = https://github.com/Telmarine/codex-title-scrolls.git
+[submodule "elements-claims"]
+	path = elements-claims
+	url = https://github.com/Telmarine/Elements-Claims.git
