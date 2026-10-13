@@ -9,3 +9,4 @@ Each mod lives in its own repository:
 - [Elements: Vault](https://github.com/Telmarine/elements-vault)
 - [Elements: Claims](https://github.com/Telmarine/Elements-Claims)
 - [Codex: Title Scrolls](https://github.com/Telmarine/Codex-Title-Scrolls)
+- [Codex: Armor Stands](https://github.com/Telmarine/Codex-Armor-Stands)

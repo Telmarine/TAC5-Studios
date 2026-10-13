@@ -13,3 +13,6 @@
 [submodule "elements-claims"]
 	path = elements-claims
 	url = https://github.com/Telmarine/Elements-Claims.git
+[submodule "codex-armor-stands"]
+	path = codex-armor-stands
+	url = https://github.com/Telmarine/Codex-Armor-Stands.git
