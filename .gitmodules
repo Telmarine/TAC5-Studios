@@ -16,3 +16,6 @@
 [submodule "codex-armor-stands"]
 	path = codex-armor-stands
 	url = https://github.com/Telmarine/Codex-Armor-Stands.git
+[submodule "elements-utilities"]
+	path = elements-utilities
+	url = https://github.com/Telmarine/Elements-Utilities.git
