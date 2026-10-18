@@ -19,3 +19,6 @@
 [submodule "elements-utilities"]
 	path = elements-utilities
 	url = https://github.com/Telmarine/Elements-Utilities.git
+[submodule "codex-fireworks"]
+	path = codex-fireworks
+	url = https://github.com/Telmarine/Codex-Fireworks.git
