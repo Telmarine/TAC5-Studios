@@ -12,3 +12,4 @@ Each mod lives in its own repository:
 - [Codex: Title Scrolls](https://github.com/Telmarine/Codex-Title-Scrolls)
 - [Codex: Armor Stands](https://github.com/Telmarine/Codex-Armor-Stands)
 - [Codex: Fireworks](https://github.com/Telmarine/Codex-Fireworks)
+- [Codex: Cartography](https://github.com/Telmarine/codex-cartography)
